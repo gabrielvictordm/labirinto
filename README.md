@@ -20,3 +20,7 @@ Depois de abrir a unity vai em assets import new package depois procura a pasta 
 ##imagens demo 
 
 ![demo1](https://imgur.com/YQrk0Mc.png)
+
+##imagens demo2
+
+![demo2](https://imgur.com/oWX5362.png)
